@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom'
+import {  HashRouter, Route, Routes } from 'react-router-dom'
 import { Contacto } from '../components/Contacto/Contacto'
 import { Home } from '../components/Home/Home'
 
